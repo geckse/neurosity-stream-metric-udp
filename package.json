@@ -1,0 +1,24 @@
+{
+  "name": "neurosity-stream-metric-udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geckse/neurosity-stream-metric-udp.git"
+  },
+  "author": "geckse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geckse/neurosity-stream-metric-udp/issues"
+  },
+  "homepage": "https://github.com/geckse/neurosity-stream-metric-udp#readme",
+  "dependencies": {
+    "@neurosity/sdk": "^6.5.10",
+    "dotenv": "^16.4.5"
+  }
+}
